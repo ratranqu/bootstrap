@@ -2800,6 +2800,7 @@ fieldset[disabled] a.btn {
 }
 
 .btn-link:focus, .btn-link.focus {
+  text-decoration: underline;
   border-color: transparent;
   box-shadow: none;
 }
